@@ -32,6 +32,8 @@ nana banana
 cursor
 cursor prompt
 
+code agent
+
 前端
 front End
 
